@@ -1,7 +1,3 @@
-# Portaria.github.io
-#Sistema para Portaria
-
-#<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8" />
