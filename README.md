@@ -50,7 +50,7 @@
         <p class="text-sm text-gray-500 mb-4">Escolha o tipo de entrada:</p>
         <div id="buttonsContainer" class="grid grid-cols-2 sm:grid-cols-3 gap-3 mb-4"></div>
         <textarea id="note" placeholder="Nota (ex: nome, grupo, observação)" class="w-full rounded-md border p-2 mb-3 h-20 text-sm"></textarea>
-        <div class="text-xs text-gray-400"></div>
+        <div class="text-xs text-gray-400">Entradas grátis contam como 1 pessoa.</div>
       </section>
 
       <section class="bg-white p-5 rounded-2xl shadow col-span-2 overflow-x-auto">
@@ -86,6 +86,7 @@
       { id: "50_pix", label: "Pix-R$50 ❖", price: 50, people: 2, color: "bg-gray-500 text-white" },
       { id: "20_pix", label: "Pix-R$20 ❖", price: 20, people: 1, color: "bg-gray-500 text-white" },	
       { id: "free", label: "Lista (Free)", price: 0, people: 1, color: "bg-gray-200 text-gray-800" },
+      { id: "50 Pessoas", label: "50 Pessoas", price: 0, people: 1, color: "bg-gray-200 text-gray-800" },
       { id: "militar", label: "Militar", price: 0, people: 1, color: "bg-gray-200 text-gray-800" },
       { id: "aniversario", label: "Aniversário", price: 0, people: 1, color: "bg-gray-200 text-gray-800" }
     ];
