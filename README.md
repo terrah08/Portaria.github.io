@@ -80,7 +80,7 @@
       { id: "30_credito", label: "Crédito - R$30 💳", price: 30, people: 1, color: "bg-green-500 text-white" },
       { id: "50_credito", label: "Crédito - R$50 💳", price: 50, people: 2, color: "bg-green-500 text-white" },
       { id: "20_debito", label: "Débito - R$20 💳", price: 20, people: 1, color: "bg-blue-500 text-white" },
-      { id: "30_debito", label: "Débito - R$30 💳", price: 50, people: 1, color: "bg-blue-500 text-white" },
+      { id: "30_debito", label: "Débito - R$30 💳", price: 30, people: 1, color: "bg-blue-500 text-white" },
       { id: "50_debito", label: "Débito - R$50 💳", price: 50, people: 2, color: "bg-blue-500 text-white" },
       { id: "30_pix", label: "Pix-R$30 ❖", price: 30, people: 1, color: "bg-gray-500 text-white" },
       { id: "50_pix", label: "Pix-R$50 ❖", price: 50, people: 2, color: "bg-gray-500 text-white" },
